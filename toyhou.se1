@@ -1,0 +1,136 @@
+<div class="card card-block"><span style="color: #ffffff;"><div class="container-fluid"><div class="row"><div class="col-4"><h2 style="text-align: center;">[SOBRIQUET]</h2><p><br></p><div class="card card-block" style="background-color: rgb(68, 143, 191); text-align: center;"><img src="https://file.toyhou.se/characters/492876?1479961713" class="fr-fic fr-dib" width="207" height="214"><strong><em>FULL NAME</em></strong><span style="font-size: 14px;">AGE:<strong>&nbsp;## years...</strong><span style="font-size: 14px;"><br>B-Day:<strong>&nbsp;M/D/Y /&nbsp;</strong><em><strong>SIGN&nbsp;</strong></em></span></span>
+</div>
+
+<ul class="nav nav-pills">
+	<li class="active">
+		<br>
+	</li>
+	<li><a class="btn btn-outline-primary show" data-toggle="tab" href="#home" id="">BGS</a></li>
+	<li><a class="btn btn-outline-primary show" data-toggle="tab" href="#menu1" id="">STATS</a></li>
+	<li><a class="btn btn-outline-primary show" data-toggle="tab" href="#menu2" id="">BAG</a></li>
+	<li><a class="btn btn-outline-primary show active" data-toggle="tab" href="#menu3" id="">XTRA</a></li>
+</ul>
+<br><i class="fas fa-music">&nbsp;<span style="font-size: 12px; font-family: arial, helvetica, sans-serif;">THEME SONG</span></i><span class="fr-video fr-fvc fr-dvb fr-draggable fr-fvl" contenteditable="false" draggable="true"><iframe width="200" height="25" src="//www.youtube.com/embed/ErgLO6swYGc?wmode=opaque" frameborder="0" allowfullscreen=""></iframe></span></div>
+<div class="col-8">
+	<div class="tab-content">
+		<div class="tab-pane fade in" id="home">
+
+			<h3><i class="fas fa-book"></i> BACKSTORY</h3>
+			<hr>
+
+			<p>
+				<br>
+			</p>
+			<div class="text">
+				<div class="ui-accordion card">
+					<div class="ui-accordion-content card-block " style="height:200px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit &nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&nbsp;</div>
+				</div>
+			</div>
+
+			<p>
+				<br>
+			</p>
+
+			<h4>GOAL:</h4>
+
+			<p>Some content.</p>
+		</div>
+		<div class="tab-pane fade" id="menu1">
+
+			<h3><i class="fas fa-shield-alt"></i> STATS</h3>
+			<hr>
+			<div class="card clad-block">
+				<div class="ui-accordion card">
+					<div class="ui-accordion-content card-block " style="height:100px;"><span style="font-size: 14px;"><div class="row"><div class="col-2">ABILITY</div><div class="col-8">SUMMARY OF ABILITY HERE</div></div></span></div>
+				</div>
+			</div>
+
+			<p>
+				<br>
+			</p>
+			<div class="card clad-block">
+				<div class="ui-accordion card">
+					<div class="ui-accordion-content card-block " style="height:100px;"><span style="font-size: 14px;"><div class="row"><div class="col-2">FLAW(S)</div><div class="col-8">SUMMARY OF FLAW HERE</div></div></span></div>
+				</div>
+			</div>
+			<br><strong>Species&nbsp;<div class="btn btn-link">text</div><br>Strength&nbsp;<div class="btn btn-link">text</div><br>Dexterity&nbsp;<div class="btn btn-link">text</div><br>Constitution&nbsp;<div class="btn btn-link">text</div><br>Intelligence&nbsp;<div class="btn btn-link">text</div><br>Wisdom&nbsp;<div class="btn btn-link">text</div><br>Charisma&nbsp;<div class="btn btn-link">text</div></strong></div>
+		<div class="tab-pane fade" id="menu2">
+
+			<h3><i class="fas fa-briefcase"></i> INVENTORY</h3>
+			<hr>
+
+			<p><em><span style="font-size: 14px;">SPECIAL ITEM:</span></em></p>
+			<div class="container-fluid">
+				<div class="row">
+
+					<p>
+						<br>
+					</p>
+					<div class="col-3"><i class="fas fa-hand-holding-heart" style="font-size:100px;"></i></div>
+					<div class="col-8"><span style="font-size: 14px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&nbsp;</span></div>
+					<br>
+					<div class="col-3">
+
+						<p>
+							<br>
+						</p><span style="FONT-SIZE:14PX;"><em>OTHERS</em></span></div>
+
+					<p>
+						<br>
+					</p>
+					<div class="col-8">
+						<br>
+					</div>
+
+					<ul style="list-style-type: disc;">
+						<li>
+							<div class="col-8"><span style="font-size: 14px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit,</span></div>
+						</li>
+						<li>
+							<div class="col-8"><span style="font-size: 14px;">&nbsp;sed do eiusmod tempor incididunt ut labore et dolore&nbsp;</span></div>
+						</li>
+						<li>
+							<div class="col-8"><span style="font-size: 14px;">magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation&nbsp;</span></div>
+						</li>
+						<li>
+							<div class="col-8"><span style="font-size: 14px;">ullamco laboris nisi ut aliquip ex ea commodo consequat.&nbsp;</span></div>
+						</li>
+					</ul>
+				</div>
+			</div>
+
+			<p>
+				<br>
+			</p>
+		</div>
+		<div class="tab-pane fade active show" id="menu3">
+
+			<h3><i class="fas fa-question"></i> TRIVIA</h3>
+			<hr>
+
+			<p><i class="fas fa-theater-masks"></i> PERSONALITY:</p>
+
+			<p><i class="far fa-grin-hearts"></i> LIKES:</p>
+
+			<p><i class="fas fa-hand-middle-finger"></i> DISLIKES:</p>
+
+			<p><i class="fas fa-microphone-alt"></i> VOICE CLAIM:&nbsp;</p>
+
+			<p>
+				<br>
+			</p>
+			<div class="ui-accordian card">
+				<div class="ui-accordian-content card-block" style="height:200px;">[CHARACTER SUMMARY HERE]</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+</div>
+</span>
+</div>
+
+<p>
+	<br>
+</p>
+<div class="card clad-block"><span style="color: #ffffff;"><h2><i class="fas fa-handshake"></i> RELATIONSHIPS</h2><div class="ui-accordion card"><div class="ui-accordion-content card-block " style="height:600px;"><p><br></p><div class="container-fluid"><div class="row"><div class="col-3"><a href="#home" id="" rel="noopener noreferrer" target="_blank"><img src="https://file.toyhou.se/characters/492876?1479961713" class="fr-fic fr-dib fr-rounded" width="119" height="123"></a></div><div class="col-8"><h3>&quot;THEY&#39;RE THE WORSE!!&quot;</h3><div class="text"><div class="ui-accordion card"><div class="ui-accordion-content card-block " style="height:150px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&nbsp;</div></div></div><p><br></p></div></div></div><div class="container-fluid"><div class="row"><div class="col-3"><a href="#home" id=""><img src="https://file.toyhou.se/characters/492876?1479961713" class="fr-fic fr-dib fr-rounded" width="119" height="123"></a></div><div class="col-8"><h3>&quot;LOVE THEM!!&quot;</h3><div class="text"><div class="ui-accordion card"><div class="ui-accordion-content card-block " style="height:150px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&nbsp;</div></div></div></div></div></div><br><div class="container-fluid"><div class="row"><div class="col-3"><a href="#home" id=""><img src="https://file.toyhou.se/characters/492876?1479961713" class="fr-fic fr-dib fr-rounded" width="120" height="124"></a></div><div class="col-8"><h3>&quot;THEY A&#39;IGHT...&quot;</h3><div class="text"><div class="ui-accordion card"><div class="ui-accordion-content card-block " style="height:150px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&nbsp;</div></div></div></div></div></div><br><div class="container-fluid"><div class="row"><div class="col-3"><a href="#home" id=""><img src="https://file.toyhou.se/characters/492876?1479961713" class="fr-fic fr-dib fr-rounded" width="124" height="128"></a></div><div class="col-8"><h3>&quot;Erhm... I don&#39;t know them..&quot;</h3><div class="text"><div class="ui-accordion card"><div class="ui-accordion-content card-block " style="height:150px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&nbsp;</div></div></div></div></div></div></div></div></span></div>
